@@ -1,0 +1,27 @@
+html{
+    background-color: darkseagreen;
+}
+h1 {
+    text-align: center;
+}
+div {
+    width: 50%;
+    margin: 5px auto;
+    border: solid 2px  black;  
+    max-width: 800px;
+    height: 200;
+    display: block;
+    background-color: aquamarine;
+    box-sizing: border-box;
+}
+.dish{
+    height: auto;
+    width: 10em;
+}
+
+ button{
+    display: inline;
+    height: 40px;
+    background-color: red;
+    align-self: center;
+ }
